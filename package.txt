@@ -1,0 +1,8 @@
+NAME=cifs-utils
+VERSION=6.8
+REVISION=1
+LICENSE=GPL-2.0-or-later
+SRC=https://www.samba.org/ftp/linux-cifs/cifs-utils/cifs-utils-6.8.tar.bz2
+SRCMD5=a385d60293e6f9e4cb0d4ac2093990d8
+BUILDDEPS=talloc
+INSTALLDEPS=talloc
